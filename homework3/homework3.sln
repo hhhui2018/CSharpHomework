@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "homework3", "homework3\homework3.csproj", "{4C147878-AD7F-48A3-B3DB-017D1491E7D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "project1", "project1\project1.csproj", "{52CFA77E-DBC9-440B-AB2E-E24F7BC8BCCD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C147878-AD7F-48A3-B3DB-017D1491E7D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C147878-AD7F-48A3-B3DB-017D1491E7D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C147878-AD7F-48A3-B3DB-017D1491E7D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C147878-AD7F-48A3-B3DB-017D1491E7D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52CFA77E-DBC9-440B-AB2E-E24F7BC8BCCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52CFA77E-DBC9-440B-AB2E-E24F7BC8BCCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52CFA77E-DBC9-440B-AB2E-E24F7BC8BCCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52CFA77E-DBC9-440B-AB2E-E24F7BC8BCCD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
