@@ -1,0 +1,11 @@
+D:\C#_lesson\homework7\WinForm\bin\Debug\WinForm.exe.config
+D:\C#_lesson\homework7\WinForm\bin\Debug\WinForm.exe
+D:\C#_lesson\homework7\WinForm\bin\Debug\WinForm.pdb
+D:\C#_lesson\homework7\WinForm\obj\Debug\WinForm.csprojResolveAssemblyReference.cache
+D:\C#_lesson\homework7\WinForm\obj\Debug\WinForm.AddOrder.resources
+D:\C#_lesson\homework7\WinForm\obj\Debug\WinForm.Form1.resources
+D:\C#_lesson\homework7\WinForm\obj\Debug\WinForm.ModifyOrder.resources
+D:\C#_lesson\homework7\WinForm\obj\Debug\WinForm.Properties.Resources.resources
+D:\C#_lesson\homework7\WinForm\obj\Debug\WinForm.csproj.GenerateResource.Cache
+D:\C#_lesson\homework7\WinForm\obj\Debug\WinForm.exe
+D:\C#_lesson\homework7\WinForm\obj\Debug\WinForm.pdb
