@@ -1,0 +1,1 @@
+D:\C#_lesson\homework8\TransformTest\obj\Debug\TransformTest.csprojResolveAssemblyReference.cache

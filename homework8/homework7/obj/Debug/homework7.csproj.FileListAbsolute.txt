@@ -1,0 +1,12 @@
+D:\大学\大二上\C#程序设计\homework7\homework7\homework7\bin\Debug\homework7.exe.config
+D:\大学\大二上\C#程序设计\homework7\homework7\homework7\bin\Debug\homework7.exe
+D:\大学\大二上\C#程序设计\homework7\homework7\homework7\bin\Debug\homework7.pdb
+D:\大学\大二上\C#程序设计\homework7\homework7\homework7\obj\Debug\homework7.csprojResolveAssemblyReference.cache
+D:\大学\大二上\C#程序设计\homework7\homework7\homework7\obj\Debug\homework7.exe
+D:\大学\大二上\C#程序设计\homework7\homework7\homework7\obj\Debug\homework7.pdb
+D:\C#_lesson\homework8\homework7\bin\Debug\homework7.exe.config
+D:\C#_lesson\homework8\homework7\obj\Debug\homework7.exe
+D:\C#_lesson\homework8\homework7\obj\Debug\homework7.pdb
+D:\C#_lesson\homework8\homework7\bin\Debug\homework7.exe
+D:\C#_lesson\homework8\homework7\bin\Debug\homework7.pdb
+D:\C#_lesson\homework8\homework7\obj\Debug\homework7.csprojResolveAssemblyReference.cache
